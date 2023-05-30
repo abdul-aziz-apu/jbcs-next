@@ -1,0 +1,15 @@
+{
+  "name": "@abdul-aziz-apu/mypackages",
+  "version": "1.0.1",
+  "description": "first npm package I am publishing",
+  "main": "HelloNpm.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "md-abdul-aziz",
+  "license": "ISC",
+  "dependencies": {},
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}
