@@ -2,11 +2,10 @@
   "name": "@abdul-aziz-apu/myfirstnpm",
   "version": "0.1.0",
   "private": false,
-  "dependencies": {
-  },
+  "dependencies": {},
   "peerDependencies": {
-    "react": "^18.2.0",
-  }
+      "react": "^18.2.0",
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
